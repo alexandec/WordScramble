@@ -1,1 +1,1 @@
-Word Scramble app for iOS.
+Word Scramble app for iOS (part of 100 Days of SwiftUI course).
